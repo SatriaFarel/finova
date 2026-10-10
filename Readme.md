@@ -2,8 +2,6 @@
 
 Finova adalah aplikasi web sederhana berbasis *client-side* yang dirancang untuk membantu pengguna mengelola keuangan pribadi, memantau arus kas harian, menyusun anggaran bulanan, serta melacak target tabungan secara praktis dan aman.
 
-![Finova Dashboard](https://via.placeholder.com/800x400?text=Finova+Dashboard+Preview) *(Opsional: Ganti dengan screenshot aplikasi kamu)*
-
 ---
 
 ## 📋 Fitur Utama
